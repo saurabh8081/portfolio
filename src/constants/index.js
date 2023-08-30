@@ -52,7 +52,7 @@ const services = [
     icon: backend,
   },
   {
-    title: "Cpp Programmer",
+    title: "Data Structures and Algorithms",
     icon: programmer,
   },
 ];
